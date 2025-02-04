@@ -9,7 +9,7 @@ I am interested in **Object Detection, Image Segmentation, Multimodal Learning**
 <br/>
 
 ## Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://secret-slip-7a0.notion.site/HongSeok-Cho-17c3b25eed5a8011a766f330b51c039b)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://dv-hs99.notion.site/HongSeok-Cho-17c3b25eed5a8011a766f330b51c039b?pvs=4)
 [![Mail](https://img.shields.io/badge/dvelopfutureman@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](dvelopfutureman@gmail.com)
 
 
