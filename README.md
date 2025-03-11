@@ -36,5 +36,5 @@ I am interested in **Object Detection, Image Segmentation, Multimodal Learning**
 <br/>
 
 ## GitHub Stats
-![HongSeok-Cho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HongseokCho&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-Hong-Seok&show_icons=true&theme=chartreuse-dark)
 
